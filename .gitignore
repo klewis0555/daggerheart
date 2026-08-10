@@ -2,8 +2,8 @@
 .vscode
 __pycache__
 
-# csv data
-csv_data
+# # csv data
+# csv_data
 
 # sandbox files
 misc.py

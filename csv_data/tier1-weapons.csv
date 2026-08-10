@@ -1,0 +1,51 @@
+name,weapon_type,damage_type,trait,range,damage,burden,feature
+Broadsword,Primary,Physical,Agility,Melee,d8 phy,One-Handed,Reliable: +1 to attack rolls
+Longsword,Primary,Physical,Agility,Melee,d10+3 phy,Two-Handed,:
+Battleaxe,Primary,Physical,Strength,Melee,d10+3 phy,Two-Handed,:
+Greatsword,Primary,Physical,Strength,Melee,d10+3 phy,Two-Handed,"Massive: -1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result."
+Mace,Primary,Physical,Strength,Melee,d8+1 phy,One-Handed,:
+Warhammer,Primary,Physical,Strength,Melee,d12+3 phy,Two-Handed,Heavy: -1 to Evasion
+Dagger,Primary,Physical,Finesse,Melee,d8+1 phy,One-Handed,:
+Quarterstaff,Primary,Physical,Instinct,Melee,d10+3 phy,Two-Handed,:
+Cutlass,Primary,Physical,Presence,Melee,d8+1 phy,One-Handed,:
+Rapier,Primary,Physical,Presence,Melee,d8 phy,One-Handed,"Quick: When you make an attack, you can mark a Stress to target another creature within range."
+Katana,Primary,Physical,Agility,Melee,d10+3 phy,Two-Handed,"Quick When you make an attack, you can mark a Stress to target another creature within range."
+Brass Knuckles,Primary,Physical,Strength,Melee,d8+1 phy,One-Handed,:
+Scimitar,Primary,Physical,Presence,Melee,d8+1 phy,One-Handed,:
+Twisted Dagger,Primary,Physical,Knowledge,Melee,d8 phy,One-Handed,Piercing: Damage dealt with this weapon treats the target's Major threshold as having a -2 Penalty.
+Halberd,Primary,Physical,Strength,Very Close,d10+2 phy,Two-Handed,Cumbersome: -1 to Finesse
+Spear,Primary,Physical,Finesse,Very Close,d8+3 phy,Two-Handed,: -1 to Finesse
+Whipsword,Primary,Physical,Finesse,Very Close,d8 phy,One-Handed,"Versatile: This weapons can also be used with these statistics - Finesse, Melee, d10."
+Rope Dart,Primary,Physical,Instinct,Close,d6+1 phy,Two-Handed,:
+Shortbow,Primary,Physical,Agility,Far,d6+3 phy,Two-Handed,:
+Crossbow,Primary,Physical,Finesse,Far,d6+1 phy,One-Handed,:
+Longbow,Primary,Physical,Agility,Very Far,d8+3 phy,Two-Handed,Cumbersome: -1 to Finesse
+Arcane Gauntlets,Primary,Magical,Strength,Melee,d10+3 mag,Two-Handed,:
+Hallowed Axe,Primary,Magical,Strength,Melee,d8+1 mag,One-Handed,:
+Brightsword,Primary,Magical,Strength,Melee,d10+3 mag,Two-Handed,:
+Shadowblade,Primary,Magical,Presence,Melee,d8 phy/mag,One-handed,"Otherworldly: On a successful attack, you can deal physical or magic damage"
+Glowing Rings,Primary,Magical,Agility,Very Close,d10+2 mag,Two-Handed,:
+Hand Runes,Primary,Magical,Instinct,Very Close,d10 mag,One-Handed,:
+Returning Blade,Primary,Magical,Finesse,Close,d8 mag,One-Handed,"Returning: When this weapon is thrown within its range, it appears in your hand immediately after the attack."
+Shortstaff,Primary,Magical,Instinct,Close,d8+1 mag,One-Handed,:
+Enchanted Chakram,Primary,Magical,Finesse,Close,d6+1 mag,One-Handed,"Ricochet: When you throw this weapon, it returns to your hand. When you make an attack, you can mark a Stress to target another creature within Very Close range of the first target with that attack."
+Casting Dagger,Primary,Magical,Instinct,Close,d6 mag,One-Handed,"Versatile: This weapon can also be used with these statistics—Presence, Melee, d8."
+Dualstaff,Primary,Magical,Instinct,Far,d6+3 mag,Two-Handed,:
+Scepter,Primary,Magical,Presence,Far,d6 mag,Two-Handed,"Versatile: This weapon can also be used with these statistics — Presence, Melee, d8."
+Wand,Primary,Magical,Knowledge,Far,d6+1 mag,One-Handed,:
+Runelock Pistol,Primary,Magical,Knowledge,Far,d6+3,One-handed,"Reloading: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
+Greatstaff,Primary,Magical,Knowledge,Very Far,d6 mag,Two-Handed,"Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
+Arcane Rifle,Primary,Magical,Agility,Very Far,d10+3 mag,Two-Handed,"Aimed: Your attack has disadvantage if the target is within Very Close range of you or within Melee range of one of your allies. You can mark a Stress to ignore this penalty."
+Shortsword,Secondary,Physical,Agility,Melee,d8 phy,One-Handed,Paired: +2 to primary weapon damage to targets within Melee range
+Round Shield,Secondary,Physical,Strength,Melee,d4 phy,One-Handed,Protective: +1 to Armor Score
+Tower Shield,Secondary,Physical,Strength,Melee,d6 phy,One-Handed,Barrier: +2 to Armor Score; -1 to Evasion
+Small Dagger,Secondary,Physical,Finesse,Melee,d8 phy,One-Handed,Paired: +2 to primary weapon damage to targets within Melee range
+Hatchet,Secondary,Physical,Agility,Melee,d8 phy,One-Handed,"Follow-Up: On a successful attack with you rprimary weapon within Melle range, you can mark a Stress to gain a +1 bonus to your Proficiency for this attack."
+Offhand Brass Knuckles,Secondary,Physical,Strength,Melee,d8 phy,One-Handed,Paired: +2 to primary weapon damage to targets within Melee range
+Throwing Knives,Secondary,Physical,Finesse,Melee,d8 phy,One-Handed,"Stockpiled: You can throw this weapon within Close range by making an attack roll using Finesse. You don't have to retrieve it, as you always have another on hand."
+Fighting Cloak,Secondary,Physical,Presence,Melee,d4 phy,One-Handed,Padded: +2 to damage thresholds.
+Rune Shield,Secondary,Magical,Knowledge,Melee,d4 mag,One-Handed,Protective: +1 to Armor Score
+Whip,Secondary,Physical,Presence,Very Close,d6 phy,One-Handed,Startling: Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.
+Focus Runes,Secondary,Magical,Instinct,Very Close,d6 mag,One-Handed,Focused: +1 to primary weapon damage to targets within Very Close range
+Grappler,Secondary,Physical,Finesse,Close,d6 phy,One-Handed,"Hooked: On a successful attack, you can pull the target into Melee range."
+Hand Crossbow,Secondary,Physical,Finesse,Far,d6+1 phy,One-Handed,:
