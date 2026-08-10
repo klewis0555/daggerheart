@@ -46,6 +46,12 @@ with open('csv_data/srd_consumables.csv', mode='r', encoding='utf-8') as file:
   for row in csv_data:
     srd_consumables.append('Consumable("' + '", "'.join(list(row.values())) + '")')
 
+hf_consumables = []
+with open('csv_data/hf_consumables.csv', mode='r', encoding='utf-8') as file:
+  csv_data = csv.DictReader(file)
+  for row in csv_data:
+    hf_consumables.append('Consumable("' + '", "'.join(list(row.values())) + '")')
+
 with open('weapons.py', mode='w') as file:
   file.write('class Weapon:\n')
   file.write('  def __init__(self, name, weapon_type, damage_type, trait, range, damage, burden, feature, tier):\n')
@@ -119,6 +125,10 @@ with open('consumables.py', mode='w') as file:
   file.write('    return self.name\n')
   file.write('\n')
   file.write('SRD_CONSUMABLES = [\n')
+  for row in srd_consumables:
+    file.write('  ' + row + ',\n')
+  file.write(']\n\n')
+  file.write('hf_CONSUMABLES = [\n')
   for row in srd_consumables:
     file.write('  ' + row + ',\n')
   file.write(']\n')
