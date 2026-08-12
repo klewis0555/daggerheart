@@ -72,7 +72,7 @@ SRD_CONSUMABLES = [
   Consumable("Stardrop", "You can use this stardrop to summon a hailstorm of comets that deals 8d20 physical damage to all targets within Very Far range."),
 ]
 
-hf_CONSUMABLES = [
+HF_CONSUMABLES = [
   Consumable("Stride Potion", "You gain a +1 bonus to your next Agility Roll."),
   Consumable("Bolster Potion", "You gain a +1 bonus to your next Strength Roll."),
   Consumable("Control Potion", "You gain a +1 bonus to your next Finesse Roll."),

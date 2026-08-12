@@ -128,7 +128,7 @@ with open('consumables.py', mode='w') as file:
   for row in srd_consumables:
     file.write('  ' + row + ',\n')
   file.write(']\n\n')
-  file.write('hf_CONSUMABLES = [\n')
+  file.write('HF_CONSUMABLES = [\n')
   for row in srd_consumables:
     file.write('  ' + row + ',\n')
   file.write(']\n')
