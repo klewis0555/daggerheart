@@ -31,26 +31,26 @@ with open('csv_data/armor.csv', mode='r', encoding='utf-8') as file:
 srd_items = []
 with open('csv_data/srd_items.csv', mode='r', encoding='utf-8') as file:
   csv_data = csv.DictReader(file)
-  for row in csv_data:
-    srd_items.append('Item("' + '", "'.join(list(row.values())) + '")')
+  for index, row in enumerate(csv_data):
+    srd_items.append('Item("' + '", "'.join(list(row.values())) + '", ' + str(index + 1) + ')')
 
 hf_items = []
 with open('csv_data/hf_items.csv', mode='r', encoding='utf-8') as file:
   csv_data = csv.DictReader(file)
-  for row in csv_data:
-    hf_items.append('Item("' + '", "'.join(list(row.values())) + '")')
+  for index, row in enumerate(csv_data):
+    hf_items.append('Item("' + '", "'.join(list(row.values())) + '", ' + str(index + 1) + ')')
 
 srd_consumables = []
 with open('csv_data/srd_consumables.csv', mode='r', encoding='utf-8') as file:
   csv_data = csv.DictReader(file)
-  for row in csv_data:
-    srd_consumables.append('Consumable("' + '", "'.join(list(row.values())) + '")')
+  for index, row in enumerate(csv_data):
+    srd_consumables.append('Consumable("' + '", "'.join(list(row.values())) + '", ' + str(index + 1) + ')')
 
 hf_consumables = []
 with open('csv_data/hf_consumables.csv', mode='r', encoding='utf-8') as file:
   csv_data = csv.DictReader(file)
-  for row in csv_data:
-    hf_consumables.append('Consumable("' + '", "'.join(list(row.values())) + '")')
+  for index, row in enumerate(csv_data):
+    hf_consumables.append('Consumable("' + '", "'.join(list(row.values())) + '", ' + str(index + 1) + ')')
 
 with open('weapons.py', mode='w') as file:
   file.write('class Weapon:\n')
@@ -91,9 +91,10 @@ with open('armor.py', mode='w') as file:
 
 with open('items.py', mode='w') as file:
   file.write('class Item:\n')
-  file.write('  def __init__(self, name, description):\n')
+  file.write('  def __init__(self, name, description, roll):\n')
   file.write('    self.name = name\n')
   file.write('    self.description = description\n')
+  file.write('    self.roll = roll\n')
   file.write('\n')
   file.write('  def __str__(self):\n')
   file.write('    return self.name\n')
@@ -114,9 +115,10 @@ with open('items.py', mode='w') as file:
 
 with open('consumables.py', mode='w') as file:
   file.write('class Consumable:\n')
-  file.write('  def __init__(self, name, description):\n')
+  file.write('  def __init__(self, name, description, roll):\n')
   file.write('    self.name = name\n')
   file.write('    self.description = description\n')
+  file.write('    self.roll = roll\n')
   file.write('\n')
   file.write('  def __str__(self):\n')
   file.write('    return self.name\n')
@@ -129,6 +131,6 @@ with open('consumables.py', mode='w') as file:
     file.write('  ' + row + ',\n')
   file.write(']\n\n')
   file.write('HF_CONSUMABLES = [\n')
-  for row in srd_consumables:
+  for row in hf_consumables:
     file.write('  ' + row + ',\n')
   file.write(']\n')
