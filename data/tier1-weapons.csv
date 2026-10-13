@@ -23,7 +23,7 @@ Longbow,Primary,Physical,Agility,Very Far,d8+3 phy,Two-Handed,Cumbersome: -1 to 
 Arcane Gauntlets,Primary,Magical,Strength,Melee,d10+3 mag,Two-Handed,:
 Hallowed Axe,Primary,Magical,Strength,Melee,d8+1 mag,One-Handed,:
 Brightsword,Primary,Magical,Strength,Melee,d10+3 mag,Two-Handed,:
-Shadowblade,Primary,Magical,Presence,Melee,d8 phy/mag,One-handed,"Otherworldly: On a successful attack, you can deal physical or magic damage"
+Shadowblade,Primary,Magical,Presence,Melee,d8 phy/mag,One-Handed,"Otherworldly: On a successful attack, you can deal physical or magic damage"
 Glowing Rings,Primary,Magical,Agility,Very Close,d10+2 mag,Two-Handed,:
 Hand Runes,Primary,Magical,Instinct,Very Close,d10 mag,One-Handed,:
 Returning Blade,Primary,Magical,Finesse,Close,d8 mag,One-Handed,"Returning: When this weapon is thrown within its range, it appears in your hand immediately after the attack."
@@ -33,7 +33,7 @@ Casting Dagger,Primary,Magical,Instinct,Close,d6 mag,One-Handed,"Versatile: This
 Dualstaff,Primary,Magical,Instinct,Far,d6+3 mag,Two-Handed,:
 Scepter,Primary,Magical,Presence,Far,d6 mag,Two-Handed,"Versatile: This weapon can also be used with these statistics — Presence, Melee, d8."
 Wand,Primary,Magical,Knowledge,Far,d6+1 mag,One-Handed,:
-Runelock Pistol,Primary,Magical,Knowledge,Far,d6+3,One-handed,"Reloading: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
+Runelock Pistol,Primary,Magical,Knowledge,Far,d6+3,One-Handed,"Reloading: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
 Greatstaff,Primary,Magical,Knowledge,Very Far,d6 mag,Two-Handed,"Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
 Arcane Rifle,Primary,Magical,Agility,Very Far,d10+3 mag,Two-Handed,"Aimed: Your attack has disadvantage if the target is within Very Close range of you or within Melee range of one of your allies. You can mark a Stress to ignore this penalty."
 Shortsword,Secondary,Physical,Agility,Melee,d8 phy,One-Handed,Paired: +2 to primary weapon damage to targets within Melee range

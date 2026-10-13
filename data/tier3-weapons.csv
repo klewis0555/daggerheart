@@ -39,7 +39,7 @@ Spiked Bow,Primary,Physical,Agility,Very Far,d6+7 phy,Two-Handed,"Versatile: Thi
 Advanced Arcane Gauntlets,Primary,Magical,Strength,Melee,d10+9 mag,Two-Handed,:
 Advanced Hallowed Axe,Primary,Magical,Strength,Melee,d8+7 mag,One-Handed,:
 Advanced Brightsword,Primary,Magical,Strength,Melee,d10+9 mag,Two-Handed,:
-Advanced Shadowblade,Primary,Magical,Presence,Melee,d8+6 phy/mag,One-handed,"Otherworldly: On a successful attack, you can deal physical or magic damage."
+Advanced Shadowblade,Primary,Magical,Presence,Melee,d8+6 phy/mag,One-Handed,"Otherworldly: On a successful attack, you can deal physical or magic damage."
 Advanced Glowing Rings,Primary,Magical,Agility,Very Close,d10+8 mag,Two-Handed,:
 Advanced Hand Runes,Primary,Magical,Instinct,Very Close,d10+6 mag,One-Handed,:
 Advanced Returning Blade,Primary,Magical,Finesse,Close,d8+6 mag,One-Handed,"Returning: When this weapon is thrown within its range, it appears in your hand immediately after the attack."
@@ -49,12 +49,12 @@ Advanced Casting Dagger,Primary,Magical,Instinct,Close,d6+6 mag,One-Handed,"Vers
 Advanced Dualstaff,Primary,Magical,Instinct,Far,d6+9 mag,Two-Handed,:
 Advanced Scepter,Primary,Magical,Presence,Far,d6+6 mag,Two-Handed,"Versatile: This weapon can also be used with these statistics—Presence, Melee, d8+4."
 Advanced Wand,Primary,Magical,Knowledge,Far,d6+7 mag,One-Handed,:
-Advanced Runelock Pistol,Primary,Magical,Knowledge,Far,d6+9 mag,One-handed,"Reloading: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
+Advanced Runelock Pistol,Primary,Magical,Knowledge,Far,d6+9 mag,One-Handed,"Reloading: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
 Advanced Greatstaff,Primary,Magical,Knowledge,Very Far,d6+6 mag,Two-Handed,"Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
 Advanced Arcane Rifle,Primary,Magical,Agility,Very Far,d10+9 mag,Two-Handed,"Aimed: Your attack has disadvantage if the target is within Very Close range of you or within Melee range of one of your allies. You can mark a Stress to ignore this penalty."
 Axe of Fortunis,Primary,Magical,Strength,Melee,d10+8 mag,Two-Handed,"Lucky: On a failed attack, you can mark a Stress to reroll your attack."
 Blessed Anlace,Primary,Magical,Instinct,Melee,d10+6 mag,One-Handed,"Healing: During downtime, automatically clear a Hit Point."
-Ghostblade,Primary,Physical or Magical,Presence,Melee,d10+7 phy or mag,One-Handed,"Otherworldly: On a successful attack, you can deal physical or magic damage."
+Ghostblade,Primary,Magical,Presence,Melee,d10+7 phy/mag,One-Handed,"Otherworldly: On a successful attack, you can deal physical or magic damage."
 Rocket Maul,Primary,Magical,Strength,Melee,d10+7 mag,Two-Handed,"Concussive: On a successful attack, you can spend a Hope to knock the target back to Far range."
 Runes of Ruination,Primary,Magical,Knowledge,Very Close,d20+4 mag,One-Handed,"Painful: Each time you make a successful attack, you must mark a Stress."
 Crystal Spear,Primary,Magical,Finesse,Very Close,d10+6 mag,One-Handed,"Piercing: Damage dealt with this weapon treats the target's Major threshold as having a -2 Penalty."

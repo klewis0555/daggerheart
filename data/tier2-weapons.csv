@@ -31,14 +31,14 @@ Bladed Whip,Primary,Physical,Agility,Very Close,d8+3 phy,One-Handed,"Quick: When
 Steelforged Halberd,Primary,Physical,Strength,Very Close,d8+4 phy,Two-Handed,"Scary: On a successful attack, the target must mark a Stress."
 War Scythe,Primary,Physical,Finesse,Very Close,d8+5 phy,Two-Handed,Reliable: +1 to attack rolls
 Lance,Primary,Physical,Instinct,Very Close,d10+5 phy,Two-Handed,Cumbersome: -1 to Finesse
-Javelins,Primary,Physical,Agility,Very Close,d6_6 phy,One-Handed,"Stockpiled: You can throw this weapon within Far range by making an attack roll using Agility without having to retrieve it, as you always have another on hand."
+Javelins,Primary,Physical,Agility,Very Close,d6+6 phy,One-Handed,"Stockpiled: You can throw this weapon within Far range by making an attack roll using Agility without having to retrieve it, as you always have another on hand."
 Blunderbuss,Primary,Physical,Finesse,Close,d8+6 phy,Two-Handed,"Reloading: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
 Greatbow,Primary,Physical,Strength,Far,d6+6 phy,Two-Handed,"Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
 Finehair Bow,Primary,Physical,Agility,Very Far,d6+5 phy,Two-Handed,Reliable: +1 to attack rolls
 Improved Arcane Gauntlets,Primary,Magical,Strength,Melee,d10+6 mag,Two-Handed,:
 Improved Hallowed Axe,Primary,Magical,Strength,Melee,d8+4 mag,One-Handed,:
 Improved Brightsword,Primary,Magical,Strength,Melee,d10+6 mag,Two-Handed,:
-Improved Shadowblade,Primary,Magical,Presence,Melee,d8+3 phy/mag,One-handed,"Otherworldly: On a successful attack, you can deal physical or magic damage"
+Improved Shadowblade,Primary,Magical,Presence,Melee,d8+3 phy/mag,One-Handed,"Otherworldly: On a successful attack, you can deal physical or magic damage"
 Improved Glowing Rings,Primary,Magical,Agility,Very Close,d10+5 mag,Two-Handed,:
 Improved Hand Runes,Primary,Magical,Instinct,Very Close,d10+3 mag,One-Handed,:
 Improved Returning Blade,Primary,Magical,Finesse,Close,d8+3 mag,One-Handed,"Returning: When this weapon is thrown within its range, it appears in your hand immediately after the attack."
@@ -48,7 +48,7 @@ Improved Casting Dagger,Primary,Magical,Instinct,Close,d6+3 mag,One-Handed,"Vers
 Improved Dualstaff,Primary,Magical,Instinct,Far,d6+6 mag,Two-Handed,:
 Improved Scepter,Primary,Magical,Presence,Far,d6+3 mag,Two-Handed,"Versatile: This weapon can also be used with these statistics—Presence, Melee, d8+3."
 Improved Wand,Primary,Magical,Knowledge,Far,d6+4 mag,One-Handed,:
-Improved Runelock Pistol,Primary,Magical,Knowledge,Far,d6+6 mag,One-handed,"Reloading: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
+Improved Runelock Pistol,Primary,Magical,Knowledge,Far,d6+6 mag,One-Handed,"Reloading: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
 Improved Greatstaff,Primary,Magical,Knowledge,Very Far,d6+3 mag,Two-Handed,"Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
 Improved Arcane Rifle,Primary,Magical,Agility,Very Far,d10+6 mag,Two-Handed,"Aimed: Your attack has disadvantage if the target is within Very Close range of you or within Melee range of one of your allies. You can mark a Stress to ignore this penalty."
 Ego Blade,Primary,Magical,Agility,Melee,d12+4 mag,One-Handed,Pompous: You must have a Presence of 0 or lower to use this weapon.
@@ -82,7 +82,7 @@ Improved Hand Crossbow,Secondary,Physical,Finesse,Far,d6+3 phy,One-Handed,:
 Spiked Shield,Secondary,Physical,Strength,Melee,d6+2 phy,One-Handed,Double Duty: +1 to Armor Score; +1 to primary weapon damage within Melee range
 Parrying Dagger,Secondary,Physical,Finesse,Melee,d6+2 phy,One-Handed,"Parry: When you are attacked, roll this weapon's damage dice. If any of the attacker's damage dice rolled the same value as your dice, the matching results are discarded from the attacker's damage dice before the damage you take is totaled."
 Collapsible Baton,Secondary,Physical,Strength,Melee,d8 phy,One-Handed,"Nonlethal: When a target would mark any number of Hit Points from an attack with this weapon, they mark an equal number of stress instead."
-Eldritch Vambrace,Secondary,Magic,Instinct,Melee,d8 mag,One-Handed,"Deflecting: When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your Armor Score against the attack."
+Eldritch Vambrace,Secondary,Magical,Instinct,Melee,d8 mag,One-Handed,"Deflecting: When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your Armor Score against the attack."
 Segmented Staff,Secondary,Physical,Agility,Very Close,d6+4 phy,One-Handed,"Double Duty: +1 to Armor Score; +1 to primary weapon damage within Melee range."
 Razor Wire,Secondary,Physical,Finesse,Very Close,d6+3 phy,One-Handed,"Entangling: On a successful attack with your primary weapon against a target within Very Close range, you can spend a Hope to make the target temporarily Vulnerable."
 Returning Axe,Secondary,Physical,Agility,Close,d6+4 phy,One-Handed,"Returning: When this weapon is thrown within its range, it appears in your hand immediately after the attack."

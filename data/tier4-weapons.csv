@@ -38,7 +38,7 @@ Hand Cannon,Primary,Physical,Finesse,Very Far,d6+12 phy,One-Handed,"Reloading: A
 Legendary Arcane Gauntlets,Primary,Magical,Strength,Melee,d10+12 mag,Two-Handed,:
 Legendary Hallowed Axe,Primary,Magical,Strength,Melee,d8+10 mag,One-Handed,:
 Legendary Brightsword,Primary,Magical,Strength,Melee,d10+12 mag,Two-Handed,:
-Legendary Shadowblade,Primary,Magical,Presence,Melee,d8+9 phy/mag,One-handed,"Otherworldly: On a successful attack, you can deal physical or magic damage."
+Legendary Shadowblade,Primary,Magical,Presence,Melee,d8+9 phy/mag,One-Handed,"Otherworldly: On a successful attack, you can deal physical or magic damage."
 Legendary Glowing Rings,Primary,Magical,Agility,Very Close,d10+11 mag,One-Handed,:
 Legendary Hand Runes,Primary,Magical,Instinct,Very Close,d10+9 mag,One-Handed,:
 Legendary Enchanted Chakram,Primary,Magical,Finesse,Close,d6+10 mag,One-Handed,"Ricochet: When you throw this weapon, it returns to your hand. When you make an attack, you can mark a Stress to target another creature within Very Close range of the first target with that attack."
@@ -48,7 +48,7 @@ Legendary Shortstaff,Primary,Magical,Instinct,Close,d8+10 mag,One-Handed,:
 Legendary Dualstaff,Primary,Magical,Instinct,Far,d8+12 mag,Two-Handed,:
 Legendary Scepter,Primary,Magical,Presence,Far,d6+9 mag,Two-Handed,"Versatile: This weapon can also be used with these statistics—Presence, Melee, d8+6."
 Legendary Wand,Primary,Magical,Knowledge,Far,d6+10 mag,One-Handed,:
-Legendary Runelock Pistol,Primary,Magical,Knowledge,Far,d6+12 mag,One-handed,"Reloading: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
+Legendary Runelock Pistol,Primary,Magical,Knowledge,Far,d6+12 mag,One-Handed,"Reloading: After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again."
 Legendary Greatstaff,Primary,Magical,Knowledge,Very Far,d6+9 mag,Two-Handed,"Powerful: On a successful attack, roll an additional damage die and discard the lowest result."
 Legendary Arcane Rifle,Primary,Magical,Agility,Very Far,d10+12 mag,Two-Handed,"Aimed: Your attack has disadvantage if the target is within Very Close range of you or within Melee range of one of your allies. You can mark a Stress to ignore this penalty."
 Sword of Light and Flame,Primary,Magical,Strength,Melee,d10+11 mag,Two-Handed,Hot: This weapon cuts through solid material.
