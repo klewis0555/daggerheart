@@ -10,7 +10,7 @@ class Consumable:
   def __repr__(self):
     return self.name
 
-SRD_CONSUMABLES = [
+CORE_CONSUMABLES = [
   Consumable("Stride Potion", "You gain a +1 bonus to your next Agility Roll.", 1),
   Consumable("Bolster Potion", "You gain a +1 bonus to your next Strength Roll.", 2),
   Consumable("Control Potion", "You gain a +1 bonus to your next Finesse Roll.", 3),

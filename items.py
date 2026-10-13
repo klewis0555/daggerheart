@@ -10,7 +10,7 @@ class Item:
   def __repr__(self):
     return self.name
 
-SRD_ITEMS = [
+CORE_ITEMS = [
   Item("Premium Bedroll", "During downtime, you automatically clear a Stress.", 1),
   Item("Piper Whistle", "This handcrafted whistle has a distinctive sound. When you blow this whistle, its piercing tone can be heard within a 1-mile radius.", 2),
   Item("Charging Quiver", "When you succeed on an attack with an arrow stored in this quiver, gain a bonus to the damage roll equal to your current tier.", 3),
