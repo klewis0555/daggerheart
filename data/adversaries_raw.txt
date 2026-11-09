@@ -401,7 +401,7 @@ Sickening Flux - Action: Mark a HP to force all targets within Close
 range to mark a Stress and become Vulnerable until their next
 rest or they clear a HP.
 Remake Reality - Action: Spend a Fear to transform the area
-within Very Close range into a diff erent biome. All targets within
+within Very Close range into a different biome. All targets within
 this area take 2d6+3 direct magic damage.
 Magical Reflection - Reaction: When the Elemental takes damage
 from an attack within Close range, deal an amount of damage to
@@ -680,7 +680,7 @@ other adversaries on the battlefield, the Warrior re-forms with no
 marked HP.
 SPELLBLADE
 Tier 1 Leader
-A mercenary combining swordplay and magic to deadly eff ect.
+A mercenary combining swordplay and magic to deadly effect.
 Motives & Tactics: Blast, command, endure
 Difficulty: 14 | Thresholds: 8/14 | HP: 6 | Stress: 3
 ATK: +3 | Empowered Longsword: Melee | 1d8+4 phy/mag
@@ -956,7 +956,7 @@ Momentum - Reaction: When the Assassin makes a successful
 attack against a PC, you gain a Fear.
 BATTLE BOX
 Tier 2 Solo
-A cube-shaped construct with a diff erent rune on each of
+A cube-shaped construct with a different rune on each of
 their six sides.
 Motives & Tactics: Change tactics, trample foes, wait in disguise
 Difficulty: 15 | Thresholds: 10/20 | HP: 8 | Stress: 6
@@ -1458,7 +1458,7 @@ FEATURES
 Captive Audience - Passive: If the Siren makes a standard attack
 against a target Entranced by their song, the attack deals 2d10+1
 damage instead of their standard damage.
-Enchanting Song - Action: Spend a Fear to sing a song that aff ects
+Enchanting Song - Action: Spend a Fear to sing a song that affects
 all targets within Close range. Targets must succeed on an
 Instinct Reaction Roll or become Entranced until they mark 2
 Stress. Other Sirens within Close range of the target can mark
@@ -1642,7 +1642,7 @@ FEATURES
 Depths of Despair - Passive: The Demon deals double damage to
 PCs with 0 Hope.
 Your Struggle Is Pointless - Action: Spend a Fear to weigh down
-the spirits of all PCs within Far range. All targets aff ected replace
+the spirits of all PCs within Far range. All targets affected replace
 their Hope Die with a d8 until they roll a success with Hope or
 their next rest.
 Your Friends Will Fail You - Reaction: When a PC fails with Fear,
@@ -1687,7 +1687,7 @@ My Turn - Reaction: When the Demon marks HP from an attack,
 spend a number of Fear equal to the HP marked by the Demon
 to cause the attacker to mark the same number of HP.
 Rivalry - Reaction: When a creature within Close range takes
-damage from a diff erent adversary, you can mark a Stress to
+damage from a different adversary, you can mark a Stress to
 add a d4 to the damage roll.
 What's Yours Is Mine - Reaction: When a PC takes Severe damage
 within Very Close range of the Demon, you can spend a Fear to
@@ -1920,7 +1920,7 @@ up to three targets within Close range, pummeling them with
 giant acorns. Targets the Treant succeeds against take 2d10+5
 physical damage.
 Take Root - Action: Mark a Stress to Root the Treant in place. The
-Treant is Restrained while Rooted, and can end this eff ect instead
+Treant is Restrained while Rooted, and can end this effect instead
 of moving while they are spotlighted. While Rooted, the Treant
 has resistance to physical damage.
 TREANT SAPLING
@@ -2623,7 +2623,7 @@ target must mark a Stress each time they make an action roll.
 DARKWEAVE QUEEN
 Tier 1 Solo
 A wagon-sized spider woven from shadow-silk by a long-forgotten
-god. Each of her many eyes bears the face of a diff erent victim.
+god. Each of her many eyes bears the face of a different victim.
 Motives & Tactics: Ambush prey, climb the walls and ceiling,
 misdirect, paralyze, stash bodies away for later, steal faces
 Difficulty: 14 | Thresholds: 8/15 | HP: 9 | Stress: 4
@@ -3100,8 +3100,8 @@ ATK: +0 | Zweihander: Very Close | 1d10+1 phy
 Experience: Guardian +2
 FEATURES
 Tireless - Passive: The Armor can't be forced to mark Stress. When
-an eff ect would cause it to mark Stress, the Armor ignores that
-part of the eff ect.
+an effect would cause it to mark Stress, the Armor ignores that
+part of the effect.
 Clatter & Recombobulate - Reaction: Once per scene when the
 Armor is defeated, you can spend a Fear to reactivate it. Clear 2
 HP and immediately spotlight it.
@@ -3188,7 +3188,7 @@ FEATURES
 Telepathic - Passive: The Yufo can mentally communicate with
 creatures within Very Far range.
 Psychic Strongbox - Passive: The Yufo is immune to abilities and
-features that would aff ect or alter its thoughts or emotions.
+features that would affect or alter its thoughts or emotions.
 Glitch Wave - Action: Spend a Fear and choose up to three
 targets within Close range. Each target must succeed on a
 Instinct Reaction Roll or become desynced from reality and have
@@ -3667,7 +3667,7 @@ Relentless (3) - Passive: The Gobstalker can be spotlighted up to
 three times per GM turn. Spend Fear as usual to spotlight them.
 Anti-Mystica-Halitosis - Passive: The Gobstalker's rancid breath
 creates an invisible, magic-negating miasma. An attack, an ability,
-or a spell that deals magic damage or creates a magic eff ect fails
+or a spell that deals magic damage or creates a magic effect fails
 automatically if used within Close range of the Gobstalker.
 Tentacle Rays - Action: Mark a Stress to attack a target within
 Far range. On a success, roll a d8 for a random beam attack or
@@ -4066,7 +4066,7 @@ spend any number of Fear to clear the same number of HP.
 Baleful Gaze - Reaction: When the Urco takes damage from an
 attack, you can spend a Fear to cause the attacker's damage
 thresholds to gain a -1 penalty until the end of the scene. This
-eff ect can stack.
+effect can stack.
 VALDENHAX
 Tier 2 Leader
 A malevolent forest hag who has long, mossy hair and flies through
@@ -4212,7 +4212,7 @@ attack, all PCs within Close range lose a Hope, and you gain a
 Fear.
 Psychic Screech - Action: Spend 2 Fear to have the Cryptimoth
 unleash a burst of psychic energy that causes each PC within Far
-range to suff er visions of their horrifying fate. Each target must
+range to suffer visions of their horrifying fate. Each target must
 make an Insight Reaction Roll (16). Targets who fail take 3d8
 direct magic damage and become Vulnerable until their next rest.
 Targets who succeed must mark a Stress or take half damage.
@@ -4741,9 +4741,9 @@ Healing Touch - Action: The Unicorn touches its horn to an ally
 within Melee range and channels healing energy into them. Mark
 any number of Stress to clear an equal number of the ally's HP.
 Protective Aura - Action: Mark a Stress to have the Unicorn
-conjure a sparkling magical aura. While the aura is in eff ect,
+conjure a sparkling magical aura. While the aura is in effect,
 attack rolls made against the Unicorn or an ally within Very Close
-range are made with disadvantage. This eff ect lasts until the
+range are made with disadvantage. This effect lasts until the
 Unicorn takes damage.
 Teleport - Action: Mark a Stress to have the Unicorn teleport up
 to Very Far range. The Unicorn can bring up to three allies within
@@ -5080,7 +5080,7 @@ FEATURES
 Lightning Strike - Action: Mark a Stress to make an attack against
 a target within Far range. On a success, deal 4d10+14 magic
 damage and roll a d6. On a result of 4 or higher, the lightning
-bounces, and the Titan makes this attack against a diff erent
+bounces, and the Titan makes this attack against a different
 target within Very Close range of the previous target. Each time
 the lightning bounces, decrease the damage it deals by 1d10.
 Mist Weaver - Action: Spend a Fear and choose a point within Far
@@ -5389,7 +5389,7 @@ a PC within Very Close range of a Contagious creature takes
 an action, the PC rolls a d6. On a result of 1, the PC becomes
 Contagious. While Contagious, a PC has disadvantage on action
 rolls until they spend 3 Hope to clear the condition. Contagious
-adversaries are unaff ected by the condition.
+adversaries are unaffected by the condition.
 Mount - Passive: While the Harbinger is on their mount, they gain
 a +2 bonus to their Difficulty. When the Harbinger takes Severe
 damage, they're knocked from their mount. If the Harbinger is
@@ -5532,7 +5532,7 @@ FEATURES
 Relentless (4) - Passive: Adonix can be spotlighted up to four times
 per GM turn. Spend Fear as usual to spotlight them.
 Elemental Archon - Action: Mark a Stress to roll a d4. Adonix
-activates the corresponding eff ect:
+activates the corresponding effect:
 1. Fire Beam. Adonix manifests a beam of elemental fi re with a
 Very Close width from themself to the edge of the battlefield.
 Each target in the beam's path must make an Agility Reaction
@@ -5543,7 +5543,7 @@ Stress and become Vulnerable until they succeed on an attack
 roll or the Demiurge is defeated.
 3. Lightning Bolt. Make an attack against a target within Very
 Far range, dealing 4d8 magic damage on a success. If all
-results are even, make the same attack against a diff erent
+results are even, make the same attack against a different
 target, repeating the cycle until you roll an odd result or run
 out of targets.
 4. Ice Storm. Each PC within Close range must succeed on
@@ -5587,7 +5587,7 @@ Instant Rewind - Reaction: When the Enforcer fails an attack, you
 can spend a Fear to reroll the die.
 Invert Polarity - Reaction: Up to three times per scene, you can
 spend a Fear to flip any die rolled onto its obverse result. This
-eff ect can't be used to alter a critical success.
+effect can't be used to alter a critical success.
 WATER MOTHER
 Tier 4 Solo
 A colossal fur-covered snake that hunts in large bodies of water.
@@ -5677,7 +5677,7 @@ Relentless (X) - Passive: Xero can be spotlighted up to X times per
 GM turn, where X is the number of PCs in the scene. Spend Fear
 as usual to spotlight it.
 Collateral Damage - Passive: Xero's movement can't be hindered,
-impeded, or aff ected by anything other than natural terrain. All
+impeded, or affected by anything other than natural terrain. All
 destructible terrain or obstacles in Xero's path are destroyed
 when Xero moves through them.
 Gigaton Stomp - Action: Spend a Fear to have Xero bring its foot

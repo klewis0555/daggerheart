@@ -59,7 +59,7 @@ CORE_ITEMS = [
   Item("Enlighten Relic", "You gain a +1 bonus to your Knowledge. You can only carry one relic.", 46),
   Item("Honing Relic", "You gain a +1 bonus to an Experience of your choice. You can only carry one relic.", 47),
   Item("Flickerfly Pendant", "While you carry this pendant, your weapons with a Melee range that deal physical damage have a gossamer sheen and can attack targets within Very Close range.", 48),
-  Item("Lasketider Boots", "You can walk on the surface of water as if it were soft ground.", 49),
+  Item("Lakestrider Boots", "You can walk on the surface of water as if it were soft ground.", 49),
   Item("Clay Companion", "When you sculpt this ball of clay into a clay animal companion, it behaves as that animal. For example, a clay spider can spin clay webs, while a clay bird can fly. The clay companion retains memory and identity across different shapes, but they can adopt new mannerisms with each form.", 50),
   Item("Mythic Dust Recipe", "As a downtime move, you can use a handful of fine gold dust to craft Mythic Dust.", 51),
   Item("Shard of Memory", "Once per long rest, you can spend 2 Hope to recall a domain card from your vault instead of paying its Recall Cost.", 52),
